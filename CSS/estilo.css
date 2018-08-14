@@ -1,0 +1,58 @@
+
+h1{
+    text-align: center;
+    font-family: cursive;
+    font-size: 40px;
+}
+label{
+      color: blue;
+}
+#contenedorform,
+
+.input{
+    margin-bottom:10px;
+}
+#contenedorform{
+    width: 960px;
+    text-align: center;
+    margin: 15px auto;
+}
+#menu{
+    text-align: center;
+    margin: 10px auto;
+    background-color: aqua;
+}
+ul,li,a:hover{
+list-style: none;
+
+color: red;
+    
+}
+a{
+text-decoration: none;
+}
+#cabecera_principal{
+    background-color:magenta;
+    width: 100%;
+    height: 180px;
+}
+#contenedorform{
+    box-shadow: 6px 10px 30px;
+    width: 50%;
+    height: 230px
+}
+#menu,ul,li{
+    display: flex;
+    margin: 10px 10px;
+}
+ul{
+    margin-left: 34%;
+}
+table,tr,td{
+    border: 1px solid black;
+}
+h2:first-latter{
+    font-size: 2em;
+}
+
+
